@@ -11,7 +11,7 @@ function say_porcamadonna(){
       stop_recording();
       state = 'Start';
     }
-
+// caccca
     document.getElementById('start_stop_btn').textContent = state;
 }
 
